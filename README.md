@@ -1,4 +1,4 @@
-# unit converter
+# Unit Converter
 ---
 You can use this program to convert the desired unit. It app supports temperature, mass and length units.
 
